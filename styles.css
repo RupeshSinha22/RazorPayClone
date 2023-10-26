@@ -1377,6 +1377,10 @@ video {
   background-image: url(/images/instant-settlement-bg.svg);
 }
 
+.bg-\[url\(\/images\/CTABg\.svg\)\] {
+  background-image: url(/images/CTABg.svg);
+}
+
 .bg-cover {
   background-size: cover;
 }
